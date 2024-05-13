@@ -1,0 +1,11 @@
+C:\Users\Tynashe\source\repos\EncryptionApk\EncryptionApk\bin\Debug\EncryptionApk.exe.config
+C:\Users\Tynashe\source\repos\EncryptionApk\EncryptionApk\bin\Debug\EncryptionApk.exe
+C:\Users\Tynashe\source\repos\EncryptionApk\EncryptionApk\bin\Debug\EncryptionApk.pdb
+C:\Users\Tynashe\source\repos\EncryptionApk\EncryptionApk\obj\Debug\EncryptionApk.csproj.AssemblyReference.cache
+C:\Users\Tynashe\source\repos\EncryptionApk\EncryptionApk\obj\Debug\EncryptionApk.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tynashe\source\repos\EncryptionApk\EncryptionApk\obj\Debug\EncryptionApk.Form1.resources
+C:\Users\Tynashe\source\repos\EncryptionApk\EncryptionApk\obj\Debug\EncryptionApk.Properties.Resources.resources
+C:\Users\Tynashe\source\repos\EncryptionApk\EncryptionApk\obj\Debug\EncryptionApk.csproj.GenerateResource.cache
+C:\Users\Tynashe\source\repos\EncryptionApk\EncryptionApk\obj\Debug\EncryptionApk.csproj.CoreCompileInputs.cache
+C:\Users\Tynashe\source\repos\EncryptionApk\EncryptionApk\obj\Debug\EncryptionApk.exe
+C:\Users\Tynashe\source\repos\EncryptionApk\EncryptionApk\obj\Debug\EncryptionApk.pdb
